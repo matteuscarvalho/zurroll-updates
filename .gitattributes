@@ -1,0 +1,3 @@
+latest.json text eol=lf
+*.sig binary
+*.exe binary
