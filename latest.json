@@ -1,0 +1,11 @@
+{
+  "version": "0.2.2",
+  "notes": "See CHANGELOG.md for the complete release notes.",
+  "pub_date": "2026-08-05T09:37:43+01:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRR1lTQ01Nb24wb29mYzZHMVlQZVZlSGEzRXNiSUlCeGFGdnZnN2FrR2Vqb0lXa3VTbVJVNGMrZ3NVWjJyVXpqemJKYStzM2pqclBEaXI2N0FyQXZ3dmlXb09jNGJFZ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTE5OTAwCWZpbGU6WnVycm9sbCBGaW5hbmNlXzAuMi4yX3g2NC1zZXR1cC5leGUKTmRkNkg2REtyY1pVNFVnL1QwdEZkRzliOHRYMjdPYkp1d1JNMVVTUjY4blpNc1p2QTR4TGI2akZHZ3lpRWRMR25aZGpMQ1QzRDdpNElBMCsvWWZrQVE9PQo=",
+      "url": "https://matteuscarvalho.github.io/zurroll-updates/Zurroll%20Finance_0.2.2_x64-setup.exe"
+    }
+  }
+}
